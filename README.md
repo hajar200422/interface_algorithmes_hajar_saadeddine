@@ -27,5 +27,12 @@ Cette interface graphique Tkinter, réalisée dans le cadre du module de Recherc
 - **Encadrante** : Mme Mouna
 - **École** : EMI - École Mohammadia d’Ingénieurs
 
+- ## 📥 Télécharger l'application
+
+▶️ Cliquez ici pour télécharger l'interface graphique en version exécutable (.exe) :
+
+🔽 [Télécharger interface_algorithmes.exe](https://drive.google.com/uc?export=download&id=1jba-X1FhS5WPJnQP1jOIsvYppZ-N5CVE)
+
+
 
 
